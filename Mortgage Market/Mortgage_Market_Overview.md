@@ -1,9 +1,6 @@
 ---
-title: "Mortgage Market Analysis and Business Overview"
-output:
-  pdf_document: default
-  html_document: default
-date: "2024-02-16"
+Title: "Mortgage Market Analysis and Business Overview"
+Date: "2024-02-16"
 ---
 
 
@@ -95,17 +92,17 @@ Below, I'll use hypothetical numbers to illustrate the waterfall funnel process 
 
 
 
-### Mortgage Process Turn Time: Refinance vs. Purchase
+## Mortgage Process Turn Time: Refinance vs. Purchase
 
 How fast do leads move through the mortgage process? In the following series of plots, I'll use hypothetical numbers to illustrate this. With two distinctive groups, purchase and refi, I will explore their respective turn times from lead creation to close.
 
 The below chart demonstrates that approximately 85% of ***refinance*** leads were closed within 50 days of lead creation and about half of the refi leads were closed within 30 days.
 
-#### Refinance
+### Refinance
 
 ![plot of chunk unnamed-chunk-10](figure/unnamed-chunk-10-1.png)
 
-#### Purchase
+### Purchase
 
 In comparison, when looking at purchase, we see that to hit that same level (\~85% or all purchases), we would need to wait 100 days from lead creation to closing.
 
