@@ -91,12 +91,9 @@ There are some major milestones that are generally applicable in the mortgage pr
 
 **Closing** - The closing is the final step in the mortgage process where the borrower signs the loan documents and takes ownership of the property. At closing, the borrower pays any closing costs and fees, and the lender disburses the loan funds.
 
-Below, I'll use hypothetical numbers to illustrate the waterfall funnel process of converting leads into closed loans..
+Below, I'll use hypothetical numbers to illustrate the waterfall funnel process of converting leads into closed loans.
 
 
-```
-## Error in loadNamespace(name): there is no package called 'webshot'
-```
 
 ### Mortgage Process Turn Time: Refinance vs. Purchase
 
